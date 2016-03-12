@@ -11,6 +11,17 @@
 #include <iostream>
 #include <string>
 
+
+unsigned int ComputeGCD(unsigned int a, unsigned int b) {
+	while (b != 0) {
+		int r = b;
+		b = a % b;
+		a = r;
+	}
+	return a;
+}
+
+
 int main() {
 
 	//input
@@ -34,6 +45,11 @@ int main() {
 	}
 
 	numerator = module;	// now numerator must be smaller than denominator
+
+	// 约分
+	unsigned int gcd = ComputeGCD(numerator, denominator);
+	numerator /= gcd;
+	denominator /= gcd;
 
 	// do the 2/5 decomposition
 	unsigned len_noloop = 0;
