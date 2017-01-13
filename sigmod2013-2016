@@ -1,0 +1,43 @@
+ACM SIGMOD Conference 2016.
+Scaling Multicore Databases via Constrained Parallel Execution. 
+Efficient Query Processing on Many-core Architectures: A Case Study with Intel Xeon Phi Processor.(demo)
+Scaling Multicore Databases via Constrained Parallel Execution. 
+///OLTP
+Design Principles for Scaling Multi-core OLTP Under High Contention.
+Transaction Healing: Scaling Optimistic Concurrency Control on Multicores.
+///感觉不太相关的
+Graph Analytics Through Fine-Grained Parallelism. 
+ParTime: Parallel Temporal Aggregation. 
+AT-GIS: Highly Parallel Spatial Query Processing with Associative Transducers. 
+DUALSIM: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine. 
+
+ACM SIGMOD Conference 2015
+IReS: Intelligent, Multi-Engine Resource Scheduler for Big Data Analytics Workflows
+From Theory to Practice: Efficient Join Query Evaluation in a Parallel Database System
+///OLTP
+FOEDUS: OLTP Engine for a Thousand Cores and NVRAM.
+///感觉不太相关
+Thrifty: Offering Parallel Database as a Service using the Shared-Process Approach. (demo)
+PAXQuery: Parallel Analytical XML Processing (demo)
+Locality-aware Partitioning in Parallel Database Systems. 
+Implicit Parallelism through Deep Language Embedding.
+Cost-based Fault-tolerance for Parallel Data Processing.
+
+ACM SIGMOD Conference 2014
+Morsel-driven parallelism: a NUMA-aware query evaluation framework for the many-core age
+HAWQ: a massively parallel processing SQL engine in hadoop. 
+Palette: enabling scalable analytics for big-memory, multicore machines. （demo）
+///感觉不相关吧
+ERIS live: a NUMA-aware in-memory storage engine for tera-scale multiprocessor systems. （demo）
+MISO: souping up big data query processing with a multistore system.
+Parallel I/O aware query optimization.
+Parallel in-situ data processing with speculative loading.
+
+
+ACM SIGMOD Conference 2013
+ODYS: an approach to building a massively-parallel search engine using a DB-IR tightly-integrated parallel DBMS for higher-level functionality
+///OLTP
+A scalable lock manager for multicores. 
+///感觉不相关
+Parallel analytics as a service.
+Iterative parallel data processing with stratosphere: an inside look.
