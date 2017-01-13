@@ -1,0 +1,20 @@
+ICDE 2016
+Tolerating correlated failures in Massively Parallel Stream Processing Engines
+///感觉不相关呀
+A novel fast and memory efficient parallel MLCS algorithm for long and large-scale sequences alignments. 
+SQL-SA for big data discovery polymorphic and parallelizable SQL user-defined scalar and aggregate infrastructure in Teradata Aster 6.20 (INDUSTY)
+
+
+ICDE 2015
+///感觉不相关
+Multicore triangle computations without tuning. 
+Accelerating aggregation using intra-cycle parallelism. 
+Scalable parallelization of skyline computation for multi-core processors.
+How to stop under-utilization and love multicores （tutorial）
+
+ICDE 2014
+Scalable serializable snapshot isolation for multicore systems 
+
+ICDE 2013
+Efficient many-core query execution in main memory column-stores
+Main-memory hash joins on multi-core CPUs: Tuning to the underlying hardware
