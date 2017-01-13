@@ -1,0 +1,30 @@
+VLDB 2012
+Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems
+///OLTP
+Fast Updates on Read-Optimized Databases Using Multi-Core CPUs
+
+vldb 2011
+///感觉不相关
+PALM: Parallel Architecture-Friendly Latch-Free Modifications to B+ Trees on Many-Core Processors
+
+VLDB 2010
+Massively Parallel Data Analysis with PACTs on Nephele
+
+VLDB 2009
+Sort vs. Hash Revisited: Fast Join Implementation on Modern Multi-Core CPUs.
+PLANET: Massively Parallel Learning of Tree Ensembles with MapReduce. 
+///感觉是OLTP
+MCC-DB: Minimizing Cache Conflicts in Multi-core Processors for Databases.
+///感觉不是很相关
+Thread Cooperation in Multicore Architectures for Frequency Counting over Multiple Data Streams
+Mining Tree-Structured Data on Multicore Systems
+
+
+VLDB 2008 
+Efficient implementation of sorting on multi-core SIMD CPU architecture
+Main-memory scan sharing for multi-core CPUs
+
+
+VLDB 2007
+Optimization of Frequent Itemset Mining on Multiple-Core Processor.
+
